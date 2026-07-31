@@ -1,5 +1,5 @@
 ## Hello
-i am luarpri, a random guy from tortilla-de-patatas-land who does stuff<br>
+i am luarpri, a random guy from Spain who does stuff<br>
 im also a dev at [htlabs](https://github.com/htlabs-games)<br>
 mi idioma nativo es el español, **but you can talk me on english too!**
 
