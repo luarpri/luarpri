@@ -1,18 +1,23 @@
 ## Hello
-i am luarpri, a random guy from Spain who does stuff<br>
-im also a dev at [htlabs](https://github.com/htlabs-games)<br>
-mi idioma nativo es el español, **but you can talk me on english too!**
+i am luarpri, i am some random guy making software like many others<br>
+here are some (serious) languagues that i've used atleast once:<br>
 
-### things that im somewhat proud of
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white&logoSize=100&labelColor=blue)
+![C++](https://img.shields.io/badge/c++-%23F34B7D.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white&logoSize=100&labelColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=100&labelColor=orange)
 
-[brauser](https://github.com/Luapree/brauser): A custom homepage for miscelaneous devices
+Some things that i am proud of:
 
-[horno de momos](https://github.com/Luapree/hornodemomos): Mod loader/save tool for Super Momos Crushers
+[brauser](https://github.com/luarpri/brauser): A custom homepage for miscelaneous devices.
 
-[patito-cuack-cuack-ds](https://github.com/Luapree/patito-cuack-cuack-ds) A random meme turned into a real .nds file
+[horno de momos](https://github.com/luarpri/hornodemomos): Mod loader/save tool for Super Momos Crushers.
 
-### things that i contributed to
+[patito-cuack-cuack-ds](https://github.com/luarpri/patito-cuack-cuack-ds) A random meme turned into a real .nds file.
 
-[Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) i made the es-es translation and im working on a ps2 port! (please help the port is taking too long)
+[wavver](https://github.com/luarpri/wavver) Music player for the GBA.
 
-[Rob](https://github.com/Dogo6647/rob) i added the #!dadjoke command
+I'm also a contributor to other open source projects, most notably (aka only ones) [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) and [Rob](https://github.com/Dogo6647/rob)
+
+Fun fact, i want to hack an IoT device but i haven't got a good candidate yet.<br>
+no i am not for hire, thanks for reading!
