@@ -13,9 +13,9 @@ Some things that i am proud of:
 
 [horno de momos](https://github.com/luarpri/hornodemomos): Mod loader/save tool for Super Momos Crushers.
 
-[patito-cuack-cuack-ds](https://github.com/luarpri/patito-cuack-cuack-ds) A random meme turned into a real .nds file.
+[patito-cuack-cuack-ds](https://github.com/luarpri/patito-cuack-cuack-ds): A random meme turned into a real .nds file.
 
-[wavver](https://github.com/luarpri/wavver) Music player for the GBA.
+[wavver](https://github.com/luarpri/wavver): Music player for the GBA.
 
 I'm also a contributor to other open source projects, most notably (aka only ones) [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) and [Rob](https://github.com/Dogo6647/rob)
 
