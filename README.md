@@ -17,8 +17,7 @@ Some things that i am proud of:
 
 [wavver](https://github.com/luarpri/wavver): Music player for the GBA.
 
-I'm also a contributor to other open source projects, most notably (aka only ones) [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) and [Rob](https://github.com/Dogo6647/rob)<br>
-Last but not least, im also a developer on htlabs working on the [ODYSEA](https://odysea.us.to) game, check it out!
+Im also a developer on htlabs working on the [ODYSEA](https://odysea.us.to) game, check it out!
 
 Fun fact, i want to hack an IoT device but i haven't got a good candidate yet.<br>
 no i am not for hire, thanks for reading!
